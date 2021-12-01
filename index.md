@@ -11,7 +11,7 @@
 
 -   [Coronalab.eu](http://Coronalab.eu) 检测点比较多分布的城市也比较广泛，有的检测点甚至可以预约当天的检测。不过要注意选择预约 IgM Duo test China，而不是PCR & Serology test。
 
- ![IgM Duo test China](https://upload-images.jianshu.io/upload_images/18562854-48d3e0654ee41b58.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+ ![IgM Duo test China](https://camo.githubusercontent.com/545e5805ae7370542e2c756e775ba42334ceb05830d1065822ec37cb3ec8a847/68747470733a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f31383536323835342d343864336530363534656534316235382e6a70673f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970253743696d61676556696577322f322f772f31323430)
  
 -   Novamedik Diagnostics （诺华美诊断）荷兰境内检测点，好处是可以提供中文服务：[https://www.coronaspeedtest.com/](https://www.coronaspeedtest.com/)
 
@@ -21,7 +21,7 @@
 
    **从荷兰始发的赴华旅客申请健康码必须同时上传：**
 -   1、我馆指定检测机构出具的**核酸、血清IgM抗体双检测证明**。（即第一项中的文件）你可以提前两天内去检测，比如你的航班是1月3日，你可以1号或者2号任何时间去检测，检测报告上不会出现检测的具体时间。
-  ![report](https://upload-images.jianshu.io/upload_images/18562854-48c18fb0bad053dc.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+  ![report](https://camo.githubusercontent.com/570c9741d2718a7f0d15f52e07b7fc2317bcd30c4705d062e22746951bd9ea4d/68747470733a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f31383536323835342d343863313866623062616430353364632e6a70673f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970253743696d61676556696577322f322f772f31323430)
 
 -   2、**机票行程单**。
 ![itinerary](https://upload-images.jianshu.io/upload_images/18562854-acf6f0bbbd4a3507.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
